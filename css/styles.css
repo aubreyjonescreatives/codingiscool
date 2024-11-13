@@ -1,0 +1,78 @@
+
+
+
+body {
+    clear: both; 
+   
+    font-family: "roboto"; 
+    
+}
+
+.carousel {
+    margin: 20px; 
+}
+
+.whatwedo {
+    text-align: center; 
+    padding: 250px;
+    background-color: beige; 
+}
+
+.whatwedo h1 {
+    font-size: 36px; 
+}
+
+.row {
+    margin-top: 50px; 
+}
+
+img {
+    margin-top: 10px; 
+}
+
+
+
+footer {
+margin-top: 100px; 
+background-color: #fefefe;
+border-top: 1px solid #cccccc; 
+
+}
+
+footer p {
+    text-align: center;
+    padding: 20px; 
+}
+
+
+@media screen and (min-width: 300px) and (max-width: 600px) {
+
+
+
+h1 {
+    color: green; 
+    background-color: blue; 
+}
+
+
+
+
+
+}
+
+
+
+@media screen and (min-width: 601px) and (max-width: 1000px) {
+
+
+
+    h1 {
+        color: white; 
+        background-color: black; 
+    }
+    
+    
+    
+    
+    
+    }
